@@ -9,7 +9,7 @@
 }
 
 .heading-part {
-    background: linear-gradient(transparent, rgb(0, 0, 0)), url(8.jpg);
+    background: linear-gradient(transparent, rgb(0, 0, 0)), url(13.jpg);
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -34,7 +34,7 @@
 .btn {
     cursor: pointer;
     border: none;
-    background-color: rgb(255, 136, 0);
+    background-color: rgb(255, 123, 0);
     border-radius: 5px;
     padding: 10px 20px;
     font-size: 30px;
@@ -210,6 +210,52 @@
 strong a {
     text-decoration: none;
     color: rgb(255, 123, 0);
+}
+
+.registration-part {
+    margin-top: 100px;
+    display: flex;
+    background-color: rgba(255, 221, 183, 0.479);
+    background: url(55.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.registration-part img {
+    border-radius: 50%;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 70px;
+}
+
+.registration-part h1 {
+    color: rgb(255, 123, 0);
+    font-size: 35px;
+    padding: 5px 0;
+}
+
+.registration-part h3 {
+    color: white;
+    padding: 5px 0;
+}
+
+.registration-part p {
+    color: white;
+    padding: 40px 0;
+    font-size: 20px;
+}
+
+.volunteer {
+    width: 700px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.volunteer button {
+    float: left;
+    margin-top: -6px;
+    background-color: rgb(218, 105, 0);
 }
 
 .last-part {
