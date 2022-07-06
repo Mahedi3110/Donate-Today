@@ -9,7 +9,7 @@
 }
 
 .heading-part {
-    background: linear-gradient(transparent, rgb(0, 0, 0)), url(13.jpg);
+    background: linear-gradient(transparent, rgb(0, 0, 0)), url(image/13.jpg);
     height: 600px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -216,7 +216,7 @@ strong a {
     margin-top: 100px;
     display: flex;
     background-color: rgba(255, 221, 183, 0.479);
-    background: url(55.jpg);
+    background: url(image/55.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
